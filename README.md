@@ -1,5 +1,5 @@
 # Python-Tetris
-Tetris is a puzzle video game created in 1985 by Alexey Pajitnov, a Soviet software engineer. This a Tetris clone that is made by using python and based on the internet version of Tetris. Unlike the regular Tetris, for simplicity this clone version can not perform a "t-spin". This Tetris clone is based on a Youtube tutorial by "Programming with Nick" (https://youtu.be/nF_crEtmpBo?si=Ipv7Rcg4RiKhzI_s). This clone is made by me and @weinymarchelina.
+This a Tetris clone that is made by using python and based on the internet version of Tetris. Unlike the regular Tetris, for simplicity this clone version can not perform a "t-spin". This Tetris clone is based on a Youtube tutorial by "Programming with Nick" (https://youtu.be/nF_crEtmpBo?si=Ipv7Rcg4RiKhzI_s). This clone is made by me and @weinymarchelina.
 
 # Features
 * Tetris basic features
